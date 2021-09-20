@@ -1,0 +1,48 @@
+#title {
+    background-color: #152D35;
+}
+
+nav {
+    background-color:#FCDEC0;
+}
+
+.rr {
+    height: 301px;
+    width: 301px;
+}
+
+#head {
+    height: 480px;
+    background-image: url(https://phototravellers.de/wp-content/uploads/2019/12/aufmacher-new-york-sehenswuerdigkeiten.jpg);
+}
+
+.phone {
+    height: 250px;
+    width: 200px;
+    background-attachment: unset;
+}
+
+h1 {
+    font-family: "pacifico";
+    size: 3rem;
+    line-height: 5;
+    color: #FCDEC0;
+    padding-top: 100px;
+    padding-left: 100px;
+}
+
+.container-fluid{
+    padding: 3% 15%;
+
+}
+
+h2 {
+
+    padding-left: 30px;
+    color: #FCDEC0;
+
+}
+
+.space {
+    padding-left: 60px;
+}
